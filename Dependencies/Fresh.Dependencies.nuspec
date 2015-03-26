@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  For more info on this file format visit http://docs.nuget.org/docs/reference/nuspec-reference.
+-->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Fresh.Dependencies</id>
+    <version>0.0.1</version>
+    <authors>Freshy Squeezed Code</authors>
+    <description>Modified external dependencies used for application development</description>
+    <language>en-US</language>
+    <projectUrl>http://freshlysqueezedcode.com/projects/dependencies</projectUrl>
+    <licenseUrl>http://freshlysqueezedcode.com/license</licenseUrl>
+
+    <dependencies>
+      <group>
+      </group>
+    </dependencies>
+
+    <references>
+    </references>
+
+    <frameworkAssemblies>
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="..\Rebus.AzureServiceBus\bin\Release\Rebus.AzureServiceBus.Advanced.dll" target="lib" />
+    <file src="..\Rebus.AzureServiceBus\bin\Release\Rebus.AzureServiceBus.Advanced.pdb" target="lib" />
+  </files>
+</package>
