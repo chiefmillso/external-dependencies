@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.AzureServiceBus.Advanced", "..\Rebus.AzureServiceBus\Rebus.AzureServiceBus.Advanced.csproj", "{E6EE9659-6F15-4E79-B0ED-F2636675F08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Processor-Release|Any CPU = Processor-Release|Any CPU
+		Web-Release|Any CPU = Web-Release|Any CPU
+		WindowsPhone-Release|Any CPU = WindowsPhone-Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Processor-Release|Any CPU.ActiveCfg = Processor-Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Processor-Release|Any CPU.Build.0 = Processor-Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Web-Release|Any CPU.ActiveCfg = Web-Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.Web-Release|Any CPU.Build.0 = Web-Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.WindowsPhone-Release|Any CPU.ActiveCfg = WindowsPhone-Release|Any CPU
+		{E6EE9659-6F15-4E79-B0ED-F2636675F08C}.WindowsPhone-Release|Any CPU.Build.0 = WindowsPhone-Release|Any CPU
+	EndGlobalSection
+EndGlobal
